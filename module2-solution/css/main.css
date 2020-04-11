@@ -43,7 +43,6 @@ body{
   }
 
   .section-title{
-      background-color: rgb(226, 98, 98);
       width: 120px;
       text-align: center;
       padding: 5px 10px;
@@ -94,7 +93,6 @@ body{
    }
  
    .section-title{
-       background-color: rgb(226, 98, 98);
        width: 120px;
        text-align: center;
        padding: 5px 10px;
@@ -144,7 +142,6 @@ body{
     margin-bottom: 10px;
 }
    .section-title{
-       background-color: rgb(226, 98, 98);
        width: 120px;
        text-align: center;
        padding: 5px 10px;
