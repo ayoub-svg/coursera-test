@@ -78,7 +78,7 @@ body{
    .box-container{
        background-color: whitesmoke;
        padding : 20px;
-       padding-top: 45px;
+       padding-top: 30px;
        border: solid 3px black ;
        border-radius: 0.3em;
        position: relative;
@@ -125,7 +125,7 @@ body{
    .box-container{
        background-color: whitesmoke;
        padding : 20px;
-       padding-top: 40px;
+       padding-top: 30px;
        border: solid 3px black ;
        border-radius: 0.3em;
        position: relative;
