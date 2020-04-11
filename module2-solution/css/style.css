@@ -49,6 +49,15 @@ body{
       font-weight: 700;
       color: white;
   }
+  #s1{ 
+     background-color: rgb(26, 204, 186);
+  }
+  #s2{ 
+    background-color: rgb(248, 33, 212);
+ }
+ #s3{ 
+    background-color: rgb(26, 204, 70);
+ }
 }
 
 /** Tablet*****/
